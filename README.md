@@ -3,3 +3,6 @@
 
 ### 사이트
 - [데이터 사이언스 스쿨](https://datascienceschool.net/)
+
+### Refer
+- Do it 데이터 분석을 위한 판다스 입문
